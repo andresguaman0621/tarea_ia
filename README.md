@@ -24,7 +24,8 @@ Ideal para:
 
 ## Visualización de los Modelos de Regresión
 
-![Gráfico de Regresión Lineal vs Polinómica](regresion_polinomica_hd.png)
+![Gráfico de Regresión Lineal](lineal.png)
+![Gráfico de Regresión Polinómica](polinomica.png)
 
 ### Explicación del Gráfico
 - **Puntos Rojos:** Representan los datos reales de salario para cada nivel de experiencia.
